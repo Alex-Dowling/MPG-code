@@ -1,2 +1,2 @@
 # MPG-code
-C++ to calculate Miles per Gallon
+C++ code to calculate Miles per Gallon
